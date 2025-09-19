@@ -4,6 +4,11 @@
 I recently got assigned to a new project that focuses on **Data Infrastructure & Support**.  
 Although my background is in **DevOps & AWS Cloud**, this project requires me to learn and work with **Data Engineering concepts and tools**.
 
+## 📅 Started On
+**19th September 2025**
+
+## Udemy Course 1: https://ibm-learning.udemy.com/course/data-engineering-101-the-beginners-guide/learn/lecture/43190218#overview
+
 ## 🎯 Goal
 This repository is where I’ll track my journey of learning **Data Engineering** — from the basics of data and pipelines to advanced concepts like **ETL, Data Lakes, Data Warehouses, Data Marts, Data Integration, Data Movement, and Snowflake**.
 
@@ -19,8 +24,7 @@ This repository is where I’ll track my journey of learning **Data Engineering*
 - To document my learning path step by step  
 - To share knowledge with others who are starting out in Data Engineering  
 
-## 📅 Started On
-**September 2025**
+
 
 ---
 
